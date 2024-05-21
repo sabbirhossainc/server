@@ -111,7 +111,7 @@
       "id": 4,
       "title": "How to Write Unit Tests in React",
       "description": "When you're building a website and coding all the cool features you had planned, you'll want to test if everything works as expected. \nNow, you can’t do that just by going through the website yourself – you need to check if each unit of your code is working as you want. For that, you need to write unit tests. And they can be quite a hassle when you actually get down to writing them. \nSo, in this post, I am going to show you how you can get started with writing unit tests in React. I will explain the process through several examples to help you understand better,",
-      "image": "https://res.cloudinary.com/daily-now/image/upload/f_auto,q_auto/v1/posts/255e60bcca96474adf200e92cb093048",
+      "image": "https://www.xenonstack.com/hubfs/xenonstack-unit-testing-in-react.png",
       "tags": [
         "react",
         "javascript",
